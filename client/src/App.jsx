@@ -33,7 +33,6 @@ const App = () => {
     };
     getUser();
   }, []);
-
   return (
     <BrowserRouter>
       <div>
